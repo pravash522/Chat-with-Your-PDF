@@ -1,4 +1,4 @@
-# PDF Chatbot using RAG and Ollama
+# PDF Chat using RAG and Ollama
 
 ## Overview
 This project allows users to ask questions about PDF documents using Retrieval-Augmented Generation (RAG). It loads a PDF splits the text into chunks, retrieves relevant information using vector embeddings and generates answers using a language model through Ollama.
